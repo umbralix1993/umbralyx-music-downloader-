@@ -33,4 +33,5 @@ Umbralyx Music Downloader es una aplicación gráfica sencilla que permite desca
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/umbralyx-music-downloader.git
+
+(https://github.com/umbralix1993/umbralyx-music-downloader-.git)
